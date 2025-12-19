@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/tl_logo.png" alt="Project Logo" width="320">
+  <img src="assets/images/tl_logo.png" alt="Project Logo" width="400">
 </p>
 
 <h1 align="center">ThreatLedger</h1>
